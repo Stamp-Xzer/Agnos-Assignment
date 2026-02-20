@@ -43,7 +43,7 @@ HOW TO RUN (DOCKER)
 ------------------------------------------------------------------------
 
 1. Clone the repository:
-   git clone https://github.com/Stamp-Xzer/agnos-backend.git
+   git clone https://github.com/Stamp-Xzer/Agnos-Assignment.git
    cd agnos-backend
 
 2. Start the application:
